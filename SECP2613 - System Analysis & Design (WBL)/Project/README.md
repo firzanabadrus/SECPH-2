@@ -1,1 +1,2 @@
-### Our progress for this project -> [here](https://github.com/haani1224/TechManiac_Project1_SAD_20232024)
+- ### Our progress for this project -> [Here](https://github.com/haani1224/TechManiac_Project1_SAD_20232024)
+- ### Video demonstration of the wireframe available [Click Here](https://youtu.be/uD1YZ-byS94)
